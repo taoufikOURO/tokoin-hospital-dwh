@@ -1,0 +1,151 @@
+medicament_id,nom_medicament,categorie,prix_unitaire,stock,fournisseur
+MEDIC0001,Insuline,Antiseptique,21414,649,TogoMed Distribution
+MEDIC0002,Nivaquine,Sirop,16508,77,Tokoin Pharma
+MEDIC0003,Efferalgan,Vaccin,21235,1029,West Africa Medical Supply
+MEDIC0004,Diclofenac,Antalgique,13689,1920,West Africa Medical Supply
+MEDIC0005,Ventoline,Vitamine,33794,598,Afrique Santé Pharma
+MEDIC0006,Metformine,Antihypertenseur,47284,185,BioPharma Afrique
+MEDIC0007,Artemether,Antalgique,2550,1961,Lomé Médical
+MEDIC0008,Fervex,Antihypertenseur,42212,1090,TogoMed Distribution
+MEDIC0009,Lumefantrine,Antipaludéen,24206,946,BioPharma Afrique
+MEDIC0010,Fervex,Antalgique,14112,684,BioPharma Afrique
+MEDIC0011,Ventoline,Antiseptique,47110,107,Pharma Togo
+MEDIC0012,Bepanthen,Antalgique,15398,1883,Lomé Médical
+MEDIC0013,Nivaquine,Vaccin,23454,389,Pharma Togo
+MEDIC0014,Lumefantrine,Vitamine,1696,800,BioPharma Afrique
+MEDIC0015,Azithromycine,Vaccin,46775,1309,Tokoin Pharma
+MEDIC0016,Efferalgan,Antibiotique,31536,461,Lomé Médical
+MEDIC0017,Ventoline,Vaccin,22854,882,Tokoin Pharma
+MEDIC0018,Paracetamol,Sirop,9263,1708,Pharma Togo
+MEDIC0019,Ibuprofen,Antipaludéen,1808,359,Lomé Médical
+MEDIC0020,Nivaquine,Vitamine,9768,963,Pharma Togo
+MEDIC0021,Bepanthen,Vitamine,16059,1,Pharma Togo
+MEDIC0022,Azithromycine,Anti-inflammatoire,2790,1141,West Africa Medical Supply
+MEDIC0023,Efferalgan,Antihypertenseur,13350,1095,Pharma Togo
+MEDIC0024,Clamoxyl,Anti-inflammatoire,35107,527,West Africa Medical Supply
+MEDIC0025,Salbutamol,Antidiabétique,36574,1889,TogoMed Distribution
+MEDIC0026,Fervex,Vaccin,11662,1947,TogoMed Distribution
+MEDIC0027,Fervex,Anti-inflammatoire,34264,923,BioPharma Afrique
+MEDIC0028,Clamoxyl,Antibiotique,1343,655,West Africa Medical Supply
+MEDIC0029,Paracetamol,Vaccin,5980,1451,West Africa Medical Supply
+MEDIC0030,Salbutamol,Anti-inflammatoire,18283,1502,Pharma Togo
+MEDIC0031,Fervex,Antipaludéen,18668,885,Pharma Togo
+MEDIC0032,Nivaquine,Antiseptique,27303,1759,West Africa Medical Supply
+MEDIC0033,Salbutamol,Antihypertenseur,33872,536,West Africa Medical Supply
+MEDIC0034,Ventoline,Vaccin,28923,815,Lomé Médical
+MEDIC0035,Vitamine C,Antibiotique,21243,434,Lomé Médical
+MEDIC0036,Augmentin,Antihypertenseur,38393,1242,West Africa Medical Supply
+MEDIC0037,Bepanthen,Antipaludéen,7657,1970,Pharma Togo
+MEDIC0038,Bepanthen,Vaccin,18868,1761,TogoMed Distribution
+MEDIC0039,Vitamine C,Antibiotique,29543,1339,BioPharma Afrique
+MEDIC0040,Fervex,Antibiotique,45224,1154,Lomé Médical
+MEDIC0041,Aspirine,Antidiabétique,8179,420,West Africa Medical Supply
+MEDIC0042,Diclofenac,Anti-inflammatoire,26220,1253,Lomé Médical
+MEDIC0043,Ventoline,Sirop,30346,1801,Lomé Médical
+MEDIC0044,Lumefantrine,Antiseptique,40350,303,Tokoin Pharma
+MEDIC0045,Nivaquine,Vaccin,29482,1256,West Africa Medical Supply
+MEDIC0046,Lumefantrine,Sirop,35151,1909,Afrique Santé Pharma
+MEDIC0047,Omeprazole,Sirop,5246,1469,Tokoin Pharma
+MEDIC0048,Tardyferon,Sirop,28757,23,Lomé Médical
+MEDIC0049,Quinine,Antihypertenseur,23518,270,TogoMed Distribution
+MEDIC0050,Clamoxyl,Vitamine,22883,658,West Africa Medical Supply
+MEDIC0051,Salbutamol,Vaccin,728,944,Tokoin Pharma
+MEDIC0052,Panadol,Sirop,29237,608,BioPharma Afrique
+MEDIC0053,Ventoline,Vitamine,15908,176,Lomé Médical
+MEDIC0054,Azithromycine,Vitamine,13140,1490,BioPharma Afrique
+MEDIC0055,Metformine,Sirop,15411,82,Lomé Médical
+MEDIC0056,Ceftriaxone,Anti-inflammatoire,23354,79,Lomé Médical
+MEDIC0057,Ventoline,Antalgique,15069,261,BioPharma Afrique
+MEDIC0058,Lumefantrine,Antalgique,23351,927,Lomé Médical
+MEDIC0059,Fervex,Antibiotique,15359,647,Afrique Santé Pharma
+MEDIC0060,Panadol,Antibiotique,29171,517,BioPharma Afrique
+MEDIC0061,Augmentin,Antidiabétique,46011,1729,BioPharma Afrique
+MEDIC0062,Augmentin,Antibiotique,28574,967,Afrique Santé Pharma
+MEDIC0063,Amoxicilline,Antalgique,26155,335,Lomé Médical
+MEDIC0064,Aspirine,Sirop,11208,1566,Afrique Santé Pharma
+MEDIC0065,Efferalgan,Antiseptique,42618,1081,Pharma Togo
+MEDIC0066,Metformine,Antidiabétique,9756,1651,TogoMed Distribution
+MEDIC0067,Bepanthen,Antibiotique,44649,1782,Tokoin Pharma
+MEDIC0068,Nivaquine,Vitamine,29043,1368,BioPharma Afrique
+MEDIC0069,Artemether,Sirop,42445,628,Tokoin Pharma
+MEDIC0070,Amoxicilline,Sirop,19060,886,Lomé Médical
+MEDIC0071,Salbutamol,Sirop,4633,1951,Lomé Médical
+MEDIC0072,Artemether,Antipaludéen,27173,695,Tokoin Pharma
+MEDIC0073,Aspirine,Antiseptique,27192,597,TogoMed Distribution
+MEDIC0074,Efferalgan,Anti-inflammatoire,12923,990,BioPharma Afrique
+MEDIC0075,Paracetamol,Antihypertenseur,8818,316,Tokoin Pharma
+MEDIC0076,Efferalgan,Vitamine,7126,30,BioPharma Afrique
+MEDIC0077,Omeprazole,Antalgique,18399,1134,TogoMed Distribution
+MEDIC0078,Fervex,Antalgique,6188,841,West Africa Medical Supply
+MEDIC0079,Clamoxyl,Antibiotique,29984,796,Lomé Médical
+MEDIC0080,Artemether,Sirop,2454,1583,Tokoin Pharma
+MEDIC0081,Diclofenac,Sirop,14158,1060,BioPharma Afrique
+MEDIC0082,Diclofenac,Anti-inflammatoire,32642,174,Pharma Togo
+MEDIC0083,Clamoxyl,Antipaludéen,33026,1150,BioPharma Afrique
+MEDIC0084,Bepanthen,Sirop,26194,1920,BioPharma Afrique
+MEDIC0085,Omeprazole,Vaccin,46593,325,Tokoin Pharma
+MEDIC0086,Clamoxyl,Vitamine,14239,1651,Afrique Santé Pharma
+MEDIC0087,Bepanthen,Antipaludéen,22697,243,TogoMed Distribution
+MEDIC0088,Paracetamol,Antalgique,23836,1509,Lomé Médical
+MEDIC0089,Panadol,Antalgique,15416,1049,TogoMed Distribution
+MEDIC0090,Doliprane,Antibiotique,6388,1783,Tokoin Pharma
+MEDIC0091,Ceftriaxone,Vaccin,36374,1243,TogoMed Distribution
+MEDIC0092,Ventoline,Vitamine,50000,765,Afrique Santé Pharma
+MEDIC0093,Metformine,Vaccin,5406,1940,Tokoin Pharma
+MEDIC0094,Quinine,Vitamine,12508,1643,Tokoin Pharma
+MEDIC0095,Efferalgan,Antiseptique,35918,340,Lomé Médical
+MEDIC0096,Diclofenac,Vaccin,42838,289,TogoMed Distribution
+MEDIC0097,Lumefantrine,Antibiotique,11384,1903,Afrique Santé Pharma
+MEDIC0098,Ibuprofen,Antalgique,21699,1003,Pharma Togo
+MEDIC0099,Metformine,Antihypertenseur,26063,1587,TogoMed Distribution
+MEDIC0100,Doliprane,Antihypertenseur,47416,1379,Lomé Médical
+MEDIC0101,Fervex,Vaccin,42069,595,Afrique Santé Pharma
+MEDIC0102,Augmentin,Vaccin,31648,362,Tokoin Pharma
+MEDIC0103,Insuline,Antipaludéen,15965,1741,Lomé Médical
+MEDIC0104,Diclofenac,Vaccin,23587,1896,Lomé Médical
+MEDIC0105,Lumefantrine,Vitamine,32064,1904,Tokoin Pharma
+MEDIC0106,Augmentin,Antibiotique,29619,821,Lomé Médical
+MEDIC0107,Ibuprofen,Antihypertenseur,35064,1288,Lomé Médical
+MEDIC0108,Quinine,Vaccin,27884,1161,BioPharma Afrique
+MEDIC0109,Nivaquine,Sirop,36536,293,Afrique Santé Pharma
+MEDIC0110,Ibuprofen,Vitamine,34188,241,Afrique Santé Pharma
+MEDIC0111,Artemether,Vaccin,21499,716,Lomé Médical
+MEDIC0112,Ibuprofen,Anti-inflammatoire,44217,1034,Tokoin Pharma
+MEDIC0113,Bepanthen,Antiseptique,41302,1686,West Africa Medical Supply
+MEDIC0114,Vitamine C,Antibiotique,45746,408,BioPharma Afrique
+MEDIC0115,Metformine,Antiseptique,14236,90,Tokoin Pharma
+MEDIC0116,Aspirine,Vitamine,14714,816,Lomé Médical
+MEDIC0117,Bepanthen,Vitamine,17134,1130,Pharma Togo
+MEDIC0118,Ceftriaxone,Antipaludéen,31757,593,BioPharma Afrique
+MEDIC0119,Clamoxyl,Antidiabétique,22793,1214,Pharma Togo
+MEDIC0120,Insuline,Anti-inflammatoire,48152,1727,Tokoin Pharma
+MEDIC0121,Ventoline,Anti-inflammatoire,35537,54,BioPharma Afrique
+MEDIC0122,Artemether,Antalgique,33730,374,Pharma Togo
+MEDIC0123,Doliprane,Antihypertenseur,16638,1937,West Africa Medical Supply
+MEDIC0124,Efferalgan,Vitamine,46295,1304,BioPharma Afrique
+MEDIC0125,Lumefantrine,Antalgique,17301,397,TogoMed Distribution
+MEDIC0126,Artemether,Vaccin,47191,1489,Tokoin Pharma
+MEDIC0127,Azithromycine,Sirop,39148,1322,Tokoin Pharma
+MEDIC0128,Diclofenac,Antibiotique,15932,1367,West Africa Medical Supply
+MEDIC0129,Vitamine C,Sirop,39175,1293,TogoMed Distribution
+MEDIC0130,Artemether,Antiseptique,13444,1033,BioPharma Afrique
+MEDIC0131,Ventoline,Antihypertenseur,30060,349,Pharma Togo
+MEDIC0132,Amoxicilline,Antidiabétique,14461,1437,TogoMed Distribution
+MEDIC0133,Salbutamol,Anti-inflammatoire,44611,1331,Lomé Médical
+MEDIC0134,Panadol,Antihypertenseur,12065,254,Lomé Médical
+MEDIC0135,Tardyferon,Antalgique,40945,786,Lomé Médical
+MEDIC0136,Metformine,Antipaludéen,5616,638,Pharma Togo
+MEDIC0137,Metformine,Antipaludéen,25097,1430,BioPharma Afrique
+MEDIC0138,Salbutamol,Antihypertenseur,40380,344,TogoMed Distribution
+MEDIC0139,Tardyferon,Antipaludéen,25921,1995,Lomé Médical
+MEDIC0140,Ceftriaxone,Vaccin,2525,109,TogoMed Distribution
+MEDIC0141,Azithromycine,Vitamine,6400,132,Tokoin Pharma
+MEDIC0142,Ventoline,Anti-inflammatoire,11934,1319,BioPharma Afrique
+MEDIC0143,Quinine,Antiseptique,44347,173,Afrique Santé Pharma
+MEDIC0144,Artemether,Antidiabétique,43689,1382,Tokoin Pharma
+MEDIC0145,Bepanthen,Antibiotique,25894,461,TogoMed Distribution
+MEDIC0146,Omeprazole,Antipaludéen,7618,407,Tokoin Pharma
+MEDIC0147,Omeprazole,Vitamine,2832,925,TogoMed Distribution
+MEDIC0148,Paracetamol,Antidiabétique,46127,221,West Africa Medical Supply
+MEDIC0149,Efferalgan,Vaccin,38060,1267,BioPharma Afrique
+MEDIC0150,Insuline,Sirop,48519,636,TogoMed Distribution

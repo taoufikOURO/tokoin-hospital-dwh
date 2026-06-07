@@ -1,0 +1,11 @@
+service_id,nom_service,capacite,batiment,etage
+SRV001,Urgences,80,Bloc A,1
+SRV002,Cardiologie,45,Bloc B,2
+SRV003,Pédiatrie,60,Bloc C,1
+SRV004,Neurologie,35,Bloc B,3
+SRV005,Chirurgie,70,Bloc D,2
+SRV006,Radiologie,25,Bloc E,1
+SRV007,Gynécologie,50,Bloc C,2
+SRV008,Pharmacie,20,Bloc F,0
+SRV009,Laboratoire,30,Bloc E,2
+SRV010,Hospitalisation,120,Bloc G,1
