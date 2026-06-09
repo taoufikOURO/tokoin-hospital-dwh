@@ -1,7 +1,5 @@
 **README.md**
 
-
-
 # Tokoin Hospital — Data Warehouse Pipeline
 
 Big Data pipeline for Tokoin Hospital (Lomé, Togo).
@@ -82,22 +80,25 @@ pip install -r requirements.txt
 
 ---
 
+---
+
 ## 6. Run the pipeline
 
 ```bash
 python main.py
 ```
 
-`main.py` runs the full pipeline in order :
+`main.py` runs the full pipeline in order — **no manual database setup required**, everything is handled automatically :
 
-| Function                       | Description                                                  |
-| ------------------------------ | ------------------------------------------------------------ |
-| `load_all()`                 | Loads all source files into the PostgreSQL staging tables    |
-| `transform_all()`            | Builds dimensions and `fact_consultations`(Data Warehouse) |
-| `export_dossiers_patients()` | Exports enriched patient dossiers to MongoDB                 |
-| `run_mongo_queries()`        | Runs analytical aggregation pipelines on MongoDB             |
+| Step | Function                       | Description                                                   |
+| ---- | ------------------------------ | ------------------------------------------------------------- |
+| 1    | `init_database()`            | Creates all schemas and tables in PostgreSQL (staging + DWH)  |
+| 2    | `load_all()`                 | Loads all source files into the staging tables                |
+| 3    | `transform_all()`            | Builds dimensions and `fact_consultations` (Data Warehouse) |
+| 4    | `export_dossiers_patients()` | Exports enriched patient dossiers to MongoDB                  |
+| 5    | `run_mongo_queries()`        | Runs analytical aggregation pipelines on MongoDB              |
 
----
+> The database schema is created automatically on first run. You do not need to execute any SQL file manually or use DBeaver / psql beforehand.
 
 ## 7. Access Metabase
 
