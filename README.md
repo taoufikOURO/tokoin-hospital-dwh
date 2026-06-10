@@ -134,3 +134,17 @@ hospital-dwh/
     ├── mongo_export.py
     └── mongo_queries.py
 ```
+
+---
+
+## Contributors
+
+[Taoufik OURO-BANG&#39;NA](https://github.com/taoufikOURO)
+
+[Koffi Boris Gilbride WOGLO](https://github.com/Borisw123)
+
+[Charly Yayra EKLU](https://github.com/CharlyEKLU)
+
+[Judith Gracia AZIGLOSSOU](https://github.com/ciajudith)
+
+[Rafia NAPO NISSAO](https://github.com/naporafia0112)
